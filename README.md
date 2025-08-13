@@ -22,7 +22,7 @@
 ### Portfolio Website
 - Showcases my design & development work  
 - Built with HTML, CSS, JS  
-  desinext
+  https://github.com/Amrutha1109/desinext-app.git
 
 ---
 

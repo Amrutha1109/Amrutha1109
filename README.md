@@ -1,10 +1,39 @@
-- Hi, I’m @Amrutha1109
-👀 I’m interested in graphic design, video editing, and building impactful AI-powered apps like DesiNext to empower Indian artisans
-🌱 I’m currently learning React, AI integration, and full-stack development
-💞️ I’m looking to collaborate on creative tech projects, open-source AI tools, and Made-in-India product platforms
-📫 How to reach me: email- amruthavytla@gmail.com
-😄 Pronouns: She/Her
-⚡ Fun fact: I can turn a simple idea into a fully designed app prototype with animations and storytelling flair
+# Hi there 👋, I'm Amrutha
+
+🎨 Graphic designer & AI app developer building **DesiNext**.  
+🌱 Learning **React, AI, and Marketplace development**.  
+💞️ Open to collaborations on **meaningful tech projects**.  
+
+---
+
+## 🔧 Skills & Tools
+- **Frontend:** HTML, CSS, JavaScript, React  
+- **Backend:** Node.js, Express, MongoDB  
+- **Design:** Figma, Photoshop, Illustrator  
+- **AI & ML:** Python, TensorFlow, OpenAI API  
+
+---
+
+## 🚀 Projects
+### DesiNext AI Product Finder
+- AI-powered marketplace to promote Made-in-India products  
+- Built with React, Node.js, and AI integration  
+
+### Portfolio Website
+- Showcases my design & development work  
+- Built with HTML, CSS, JS  
+  desinext
+
+---
+
+## 📫 Contact Me
+- Email: amruthavytla@gmail.com
+
+
+---
+
+## ⚡ Fun Fact
+I love turning ideas into **visuals & code**!
 
 
 <!---

@@ -26,6 +26,10 @@
   
 https://codesandbox.io/p/sandbox/practical-bash-vty7n2
 ---
+[![Check out my Substack](https://github.com/Amrutha1109/Amrutha1109/blob/main/substack.png)](https://substack.com/@amrutha09ths)
+![Amrutha Vytla - vertical](https://github.com/user-attachments/assets/750bd975-7feb-4228-be58-6a089d3cff55)
+
+
 
 ## 📫 Contact Me
 - Email: amruthavytla@gmail.com
@@ -41,3 +45,5 @@ I love turning ideas into **visuals & code**!
 Amrutha1109/Amrutha1109 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+

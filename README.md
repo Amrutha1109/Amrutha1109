@@ -26,6 +26,13 @@
   
 https://codesandbox.io/p/sandbox/practical-bash-vty7n2
 ---
+<img width="2523" height="1283" alt="Screenshot 2025-06-22 104027" src="https://github.com/user-attachments/assets/c8e03b06-ada2-4629-9930-86c40ad4262a" />
+<img width="1024" height="1536" alt="sc of DesiNext" src="https://github.com/user-attachments/assets/59cc34df-745c-4cfb-985f-3baf564fab1d" />
+
+
+
+
+
 [![Check out my Substack](https://github.com/Amrutha1109/Amrutha1109/blob/main/substack.png)](https://substack.com/@amrutha09ths)
 ![Amrutha Vytla - vertical](https://github.com/user-attachments/assets/750bd975-7feb-4228-be58-6a089d3cff55)
 
